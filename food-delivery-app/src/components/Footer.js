@@ -13,7 +13,7 @@ function Footer(){
                 <a href ="https://www.linkedin.com"><i className="fa fa-linkedin" style={{fontSize:"30px" ,color:"grey"}}></i> </a>
             </div>
             <div style={{textAlign:"center"}}>
-                <p>@ Copyright Foodapp 2020.All Rights Reserved.</p>
+                <p>@ Copyright Foodbuzz 2020 <br/> All Rights Reserved.</p>
             </div>
 
         </div>

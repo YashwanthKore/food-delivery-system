@@ -1,83 +1,178 @@
 [
     {
-        "restaurant": "Cafe Bahar",
-        "rating" : 4.3,
-        "itemslist": [
-            {
-                "item": "Chicken Soft Noodle",
-                "image": "https://www.favfamilyrecipes.com/wp-content/uploads/2018/10/Sweet-and-Spicy-Noodles-with-Chicken-500x375.jpg",
-                "ingrediants": "Chicken, five spice, cabbage, noodles, spring onion",
-                "category": "Non-Veg",
-                "price": 180
-            },
-            {
-                "item": "Chicken Biryani(special)",
-                "image": "https://www.cravingfork.com/wp-content/uploads/2019/05/Chicken-Biryani-New.jpg",
-                "ingrediants": "Chicken thighs, basmati rice, hung curd, garam masala powder, butter",
-                "category": "Non-Veg",
-                "price": 300
-            },
-            {
-                "item": "Mutton Biryani",
-                "image": "https://nrai.org/wp-content/uploads/2018/04/mutton-biryani-1-660x390.jpg",
-                "ingrediants": "Mutton, raw papaya paste, basmati rice, rose water, star anise",
-                "category": "Non-Veg",
-                "price": 550
-            }
-        ]
+      "id":1,
+      "name": "Wasabi by Morimoto",
+      "image": "https://c.ndtvimg.com/2020-01/hqocblio_restaurant-_625x300_14_January_20.jpg",
+      "categeries": "Chinese & South Indian",
+      "rating": 4.4,
+      "votes": "102 votes",
+      "reviews": "92 reviews",
+      "cost": 400,
+      "payment": "Accepts all payments"
     },
     {
-        "restaurant": "Grand Bawarchi",
-        "rating" : 4.1,
-        "itemslist": [
-            {
-                "item": "Chicken 65",
-                "image": "https://static.toiimg.com/photo/60425532.cms",
-                "ingrediants": "",
-                "category": "Non-Veg",
-                "price": 250
-            },
-            {
-                "item": "Panner Chill",
-                "image": "https://maunikagowardhan.co.uk/wp-content/uploads/2011/11/Chilli-Paneer-3-700x467.jpg",
-                "ingrediants": "",
-                "category": "Non-Veg",
-                "price": 200
-            },
-            {
-                "item": "Tandoori Roti",
-                "image": "https://lh3.googleusercontent.com/proxy/T71a4-8cBlLzzAriWIJd-bm1dPCG2-VYXMArNuX_Y9tBohV3LOS9akqOZ8shMWB5pO7Un3MFaIYM8bEZt-RZwLdijSu0HhCuQX6_6CypQQOPMX3wFc6gpK9N1g",
-                "ingrediants": "",
-                "category": "Veg",
-                "price": 15
-            }
-        ]
+      "id":2,
+      "name": "Masala Kraft",
+      "image": "https://blog.dineout-cdn.co.in/blog/wp-content/uploads/2017/10/cyberhub_1100x575px-1-1030x538.jpg",
+      "categeries": "North Indian & South Indian",
+      "rating": 4.3,
+      "votes": "13 votes",
+      "reviews": "1 reviews",
+      "cost": 200,
+      "payment": "Accepts all payments"
     },
     {
-        "restaurant": "eat.fit",
-        "rating" : 4.4,
-        "itemslist": [
-            {
-                "item": "Immunity Pro Chole Kulcha",
-                "image": "https://b.zmtcdn.com/data/pictures/1/19154011/363360a7f1308dd5acbbaabede0a8770_featured_v2.jpg",
-                "ingrediants": "Whole wheat flour, oats, ginger, baking soda, baking powder",
-                "category": "Veg",
-                "price": 300
-            },
-            {
-                "item": "Antioxidant Rich Rajma Masala Meal",
-                "image": "https://mistertikku.com/wp-content/uploads/2018/07/Rajma-Rice-1024x726.jpg",
-                "ingrediants": "Kidney beans, vegan, garam masala powder, kasuri methi, tomatoes",
-                "category": "Non-Veg",
-                "price": 200
-            },
-            {
-                "item": "Aloo Paratha Chole Meal",
-                "image": "https://static.toiimg.com/thumb/53109843.cms?imgsize=244340&width=800&height=800",
-                "ingrediants": "Chana masala, whole wheat, lime juice, parathas, ajwain",
-                "category": "Veg",
-                "price": 150
-            }
-        ]
+      "id":3,
+      "name": "Orient Express",
+      "image": "https://london-post.co.uk/wp-content/uploads/2019/01/img_1668.jpg",
+      "categeries": "Chinese,North Indian & South Indian",
+      "rating": 4.2,
+      "votes": "78 votes",
+      "reviews": "85 reviews",
+      "cost": 500,
+      "payment": "Accepts cash payments"
+    },
+    {
+      "id":4,
+      "name": "Bukhara",
+      "image": "https://b.zmtcdn.com/data/pictures/4/16786034/ee39340b193017ce2b245e2641d748b0.png",
+      "categeries": "North Indian & South Indian",
+      "rating": 4.1,
+      "votes": "63 votes",
+      "reviews": "50 reviews",
+      "cost": 1400,
+      "payment": "Accepts card payments"
+    },
+    {
+      "id":5,
+      "name": "Yuuka",
+      "image": "https://content3.jdmagicbox.com/comp/raigad-maharashtra/p0/9999p2145.2145.180420114659.n6p0/catalogue/the-square-novotel-imagica-khopoli--khopoli-raigad-maharashtra-restaurants-u8kxolkhkx.jpg",
+      "categeries": "Chinese,South Indian",
+      "rating": 3.3,
+      "votes": "109 votes",
+      "reviews": "38 reviews",
+      "cost": 300,
+      "payment": "Accepts cash payments"
+    },
+    {
+      "id":6,
+      "name": "Dum Pukht Jolly",
+      "image": "https://lh3.googleusercontent.com/proxy/5bd3eGePAUi9SCwFeDgF2MDvwqR_pDPKwfAQq0ImGy3i6m4Gwo5ThD25VTZDk-7ijmO49p6hDAfWyG55eTrWzO7m13UslOy_hN4geriFpmLdY55tzpwldrCmN_MAJbORbSaCt4IFxHF7LQO1HzXxWwiRhfZN",
+      "categeries": "Deserts",
+      "rating": 4.2,
+      "votes": "26 votes",
+      "reviews": "56 reviews",
+      "cost": 450,
+      "payment": "Accepts cash payments"
+    },
+    {
+      "id":7,
+      "name": "Taj Falaknuma Palace",
+      "image": "https://www.palmerainnandsuites.com/uploads/9/8/6/9/98696462/dining_5.jpg",
+      "categeries": "Chinese,North Indian & South Indian",
+      "rating": 4.9,
+      "votes": "511 votes",
+      "reviews": "103 reviews",
+      "cost": 1800,
+      "payment": "Accepts card payments"
+    },
+    {
+      "id":8,
+      "name": "The Park Hotel",
+      "image": "https://static.toiimg.com/photo/53520366.cms",
+      "categeries": "Chinese & Deserts",
+      "rating": 2.2,
+      "votes": "96 votes",
+      "reviews": "20 reviews",
+      "cost": 350,
+      "payment": "Accepts all payments"
+    },
+    {
+      "id" :9,
+      "name": "Leela Palace",
+      "image": "https://www.fabhotels.com/blog/wp-content/uploads/2018/09/Rooftop-Breeze.jpg",
+      "categeries": "North Indian",
+      "rating": 1.1,
+      "votes": "10 votes",
+      "reviews": "8 reviews",
+      "cost": 200,
+      "payment": "Accepts all payments"
+    },
+    {
+      "id" :10,
+      "name": "Travertino",
+      "image": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_850x478/public/2017/06/21/20710-service2-pixabay.jpg?itok=WUhtrj8a",
+      "categeries": "North Indian",
+      "rating": 1.5,
+      "votes": "112 votes",
+      "reviews": "25 reviews",
+      "cost": 250,
+      "payment": "Accepts all payments"
+    },
+    {
+      "id":11,
+      "name": "Royal Afghan",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/de/af/d8/biala-roza-main-restaurant.jpg",
+      "categeries": "North Indian & South Indian",
+      "rating": 3.1,
+      "votes": "64 votes",
+      "reviews": "89 reviews",
+      "cost": 600,
+      "payment": "Accepts cash payments"
+    },
+    {
+      "id":12,
+      "name": "Grand Hyatt",
+      "image": "https://www.sunnysworldpune.com/blog/wp-content/uploads/2019/11/The-Ruby-Restaurant.jpg",
+      "categeries": "North Indian ,South Indian & Deserts",
+      "rating": 3.7,
+      "votes": "18 votes",
+      "reviews": "0 reviews",
+      "cost": 750,
+      "payment": "Accepts all payments"
+    },
+    {
+      "id":13,
+      "name": "Ottimo at West View",
+      "image": "https://www.shrinidhifoodcorp.com/images/restaurants-in-bangalore.jpg",
+      "categeries": "South Indian",
+      "rating": 2.4,
+      "votes": "23 votes",
+      "reviews": "19 reviews",
+      "cost": 300,
+      "payment": "Accepts card payments"
+    },
+    {
+      "id":14,
+      "name": "The Gateway Hotel",
+      "image": "https://www.spatz.pl/thumb/800x600/uploads/restauracjakrakow2.jpg",
+      "categeries": "Chinese,North Indian & South Indian",
+      "rating": 2.4,
+      "votes": "87 votes",
+      "reviews": "24 reviews",
+      "cost": 400,
+      "payment": "Accepts cash payments"
+    },
+    {
+      "id":15,
+      "name": "Vivanta by Taj",
+      "image": "https://media.timeout.com/images/105239239/image.jpg",
+      "categeries": "North Indian",
+      "rating": 3.6,
+      "votes": "55 votes",
+      "reviews": "32 reviews",
+      "cost": 550,
+      "payment": "Accepts card payments"
+    },
+    {
+      "id":16,
+      "name": "bahar cafe",
+      "image": "https://assets.vogue.com/photos/5d13ce66dc44c60009c00a2a/4:3/w_3000,h_2250,c_limit/00-promo-image-best-restaurant-in-the-world-mirazur-france.jpg",
+      "categeries": "Chinese,South Indian",
+      "rating": 4.3,
+      "votes": "109 votes",
+      "reviews": "38 reviews",
+      "cost": 400,
+      "payment": "Accepts cash payments"
     }
 ]

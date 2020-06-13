@@ -1,7 +1,8 @@
 .Footerstyle{
-    height: 250px;
+    height: 180px;
     background: black;
     color :white;
     grid-template-columns: auto auto auto auto auto;
     justify-content: center;
+    margin-top: 10px;
 }
