@@ -1,0 +1,27 @@
+*{
+    margin :0;
+    padding : 0
+}
+
+.Headerstyle{
+    width: 100%;
+    height: 50px;
+    background: rgb(18, 189, 75);
+    color :white
+}
+
+.Headerstyle ul {
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   }
+   
+   .Headerstyle ul li{
+    list-style: none;
+    text-transform: uppercase;
+   }
+   
+   .Headerstyle ul li a{
+    color: white;
+   }

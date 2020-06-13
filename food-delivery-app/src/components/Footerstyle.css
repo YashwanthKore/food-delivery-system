@@ -1,0 +1,7 @@
+.Footerstyle{
+    height: 250px;
+    background: black;
+    color :white;
+    grid-template-columns: auto auto auto auto auto;
+    justify-content: center;
+}
