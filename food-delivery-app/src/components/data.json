@@ -1,0 +1,83 @@
+[
+    {
+        "restaurant": "Cafe Bahar",
+        "rating" : 4.3,
+        "itemslist": [
+            {
+                "item": "Chicken Soft Noodle",
+                "image": "https://www.favfamilyrecipes.com/wp-content/uploads/2018/10/Sweet-and-Spicy-Noodles-with-Chicken-500x375.jpg",
+                "ingrediants": "Chicken, five spice, cabbage, noodles, spring onion",
+                "category": "Non-Veg",
+                "price": 180
+            },
+            {
+                "item": "Chicken Biryani(special)",
+                "image": "https://www.cravingfork.com/wp-content/uploads/2019/05/Chicken-Biryani-New.jpg",
+                "ingrediants": "Chicken thighs, basmati rice, hung curd, garam masala powder, butter",
+                "category": "Non-Veg",
+                "price": 300
+            },
+            {
+                "item": "Mutton Biryani",
+                "image": "https://nrai.org/wp-content/uploads/2018/04/mutton-biryani-1-660x390.jpg",
+                "ingrediants": "Mutton, raw papaya paste, basmati rice, rose water, star anise",
+                "category": "Non-Veg",
+                "price": 550
+            }
+        ]
+    },
+    {
+        "restaurant": "Grand Bawarchi",
+        "rating" : 4.1,
+        "itemslist": [
+            {
+                "item": "Chicken 65",
+                "image": "https://static.toiimg.com/photo/60425532.cms",
+                "ingrediants": "",
+                "category": "Non-Veg",
+                "price": 250
+            },
+            {
+                "item": "Panner Chill",
+                "image": "https://maunikagowardhan.co.uk/wp-content/uploads/2011/11/Chilli-Paneer-3-700x467.jpg",
+                "ingrediants": "",
+                "category": "Non-Veg",
+                "price": 200
+            },
+            {
+                "item": "Tandoori Roti",
+                "image": "https://lh3.googleusercontent.com/proxy/T71a4-8cBlLzzAriWIJd-bm1dPCG2-VYXMArNuX_Y9tBohV3LOS9akqOZ8shMWB5pO7Un3MFaIYM8bEZt-RZwLdijSu0HhCuQX6_6CypQQOPMX3wFc6gpK9N1g",
+                "ingrediants": "",
+                "category": "Veg",
+                "price": 15
+            }
+        ]
+    },
+    {
+        "restaurant": "eat.fit",
+        "rating" : 4.4,
+        "itemslist": [
+            {
+                "item": "Immunity Pro Chole Kulcha",
+                "image": "https://b.zmtcdn.com/data/pictures/1/19154011/363360a7f1308dd5acbbaabede0a8770_featured_v2.jpg",
+                "ingrediants": "Whole wheat flour, oats, ginger, baking soda, baking powder",
+                "category": "Veg",
+                "price": 300
+            },
+            {
+                "item": "Antioxidant Rich Rajma Masala Meal",
+                "image": "https://mistertikku.com/wp-content/uploads/2018/07/Rajma-Rice-1024x726.jpg",
+                "ingrediants": "Kidney beans, vegan, garam masala powder, kasuri methi, tomatoes",
+                "category": "Non-Veg",
+                "price": 200
+            },
+            {
+                "item": "Aloo Paratha Chole Meal",
+                "image": "https://static.toiimg.com/thumb/53109843.cms?imgsize=244340&width=800&height=800",
+                "ingrediants": "Chana masala, whole wheat, lime juice, parathas, ajwain",
+                "category": "Veg",
+                "price": 150
+            }
+        ]
+    }
+]
